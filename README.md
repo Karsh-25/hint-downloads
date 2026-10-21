@@ -1,2 +1,2 @@
 HINT downloads
-https://hint-site.pages.dev/
+https://hintly.in/
